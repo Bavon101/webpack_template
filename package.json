@@ -1,0 +1,16 @@
+{
+  "name": "webpack-exercise",
+  "version": "1.0.0",
+  "description": "Template genesis",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Bavon101",
+  "license": "ISC",
+  "keywords": []
+}
